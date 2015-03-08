@@ -1,0 +1,5 @@
+---
+# application tasks to be customized and to run after the main provision
+- name: Install Odoo
+  sudo: yes
+  shell: curl https://raw.githubusercontent.com/aschenkels-ictstudio/openerp-install-scripts/master/odoo-v8/ubuntu-14-04/odoo_install.sh > /root/odoo_install.sh && sh /root/odoo_install.sh

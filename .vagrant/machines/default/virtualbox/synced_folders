@@ -1,1 +1,0 @@
-{"nfs":{"/vagrant":{"type":"nfs","guestpath":"/vagrant","hostpath":"/Users/scott/Developer/Git/git.lsservers.co.uk/internal/odoo","disabled":false,"map_uid":501,"map_gid":20,"nfs_udp":true,"nfs_version":3,"uuid":"1312639270"}}}
